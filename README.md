@@ -24,7 +24,8 @@ This is a weather application built using the Laravel framework. The app allows 
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/5782cd03-1740-4806-b464-b1bb1e6afc53)
+![image](https://github.com/user-attachments/assets/8a751e0c-95ab-46a8-96a7-32351f00f622)
+
 
 
 ### How to Set Up Locally
